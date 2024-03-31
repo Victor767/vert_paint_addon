@@ -2,6 +2,8 @@
 
 It is often needed to paint verticies of the objects in different colors before exporting to engine as engines shaders require it to be painted in one way or another to function properly. This addon allown to paint verticies in any color on the fly right from Object or Edit Mode in Blender without switching to Vertex Paint Mode. The two most used colors - Black and White - are applied with a single press of a button. Any other color could be picked up from color wheel by also pressing a single button.
 
+Unlike painting verticies in different colors in Vertex Paint Mode this plugin allows you to paint any number of vertices on any number of object in a single instance.
+
 This addon adds buttons to the separate panel in Object Data Properties tab of Blender with the following functions:
 
 1. Paint Object Verticies Black - paints all the verticies of selected object(s) in black color. This means literally all verticies of selected object(s) shall be painted white despite what color thay had earlier. If you need to paint only certain verticies of your object select them in Edit Mode and use buttons 4-6.
